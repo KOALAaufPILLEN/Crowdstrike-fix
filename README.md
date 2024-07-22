@@ -15,7 +15,7 @@ This repository provides step-by-step instructions to fix common errors encounte
 
 ## Error Fixes
 
-Here are the steps to fix common CrowdStrike errors:
+Here are the steps to fix common CrowdStrike errors even when you dont have the bitlocker key:
 
 ### Error 1: 19.July 2024: PAGE_FAULT_IN_NONPAGED_AREA
 
@@ -37,6 +37,8 @@ If you encounter the PAGE_FAULT_IN_NONPAGED_AREA error, follow these steps to re
 12. Open the command prompt as an administrator.
 13. Type "bcdedit /deletevalue {default} safeboot" and press Enter.
 14. Restart your computer as normal and confirm if the behavior is back to normal.
+
+1. Some users Computer could be fixed when restarting the PC about 15 Times to auto rollback the version automaticly
 
 Feel free to add more error fixes as needed.
 
