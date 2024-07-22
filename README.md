@@ -11,7 +11,7 @@ This repository contains the necessary steps to fix common errors encountered wi
 ## Table of Contents
 
 - [Error Fixes](#error-fixes)
-    - [Error 1 19.July 2024: PAGE_FAULT_IN_NONPAGED_AREA](#Error 1 19.July 2024: PAGE_FAULT_IN_NONPAGED_AREA)
+    - [Error 1 19.July 2024: PAGE_FAULT_IN_NONPAGED_AREA](#Error-1-19.July-2024:-PAGE_FAULT_IN_NONPAGED_AREA)
 - [Contributing](#contributing)
 - [License](#license)
 
