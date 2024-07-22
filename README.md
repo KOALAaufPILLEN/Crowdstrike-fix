@@ -11,7 +11,7 @@ This repository contains the necessary steps to fix common errors encountered wi
 ## Table of Contents
 
 - [Error Fixes](#error-fixes)
-    - [Error 1 : 19.July 2024: PAGE_FAULT_IN_NONPAGED_AREA](#Error-1-:-19.July-2024:-PAGE_FAULT_IN_NONPAGED_AREA)
+    - [Error 1 : 19.July 2024 : PAGE_FAULT_IN_NONPAGED_AREA](#Error-1-:-19.July-2024-:-PAGE_FAULT_IN_NONPAGED_AREA)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -19,7 +19,7 @@ This repository contains the necessary steps to fix common errors encountered wi
 
 Here are the step-by-step instructions to fix common CrowdStrike errors:
 
-### Error 1 : 19.July 2024: PAGE_FAULT_IN_NONPAGED_AREA
+### Error 1 : 19.July 2024 : PAGE_FAULT_IN_NONPAGED_AREA
 What failed csagent.sys
 
 If you encounter the PAGE_FAULT_IN_NONPAGED_AREA Error, follow these steps to resolve it:
